@@ -1,3 +1,4 @@
-## Hi there 👋
-## here is my first github practical project repository
+## Hi there 
+here is my first github practical project repository
+<br>
 manojgottala
